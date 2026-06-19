@@ -63,3 +63,4 @@ function tweet() {
 }
 
 tweet();
+node bot.js
